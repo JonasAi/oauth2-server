@@ -2,7 +2,6 @@
 /composer.lock
 phpunit.xml
 .idea
-/examples/vendor
 examples/public.key
 examples/private.key
 build
